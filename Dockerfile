@@ -1,4 +1,4 @@
-FROM python:slim
+FROM python:2.7
 
 MAINTAINER Seel 459745355@qq.com
 
